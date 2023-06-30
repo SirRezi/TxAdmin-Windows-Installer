@@ -7,6 +7,7 @@ Das Skript führt Sie durch den Installationsprozess. Es erstellt einen Ordner a
 
 ## Voraussetzungen
 Windows-Betriebssystem
+
 Installiertes 7-Zip-Archivprogramm
 ## Hinweise
 Die Serverdateien werden standardmäßig auf dem Desktop in einem Ordner mit dem Namen "FiveMServer" installiert. Sie können den Installationspfad in der Batch-Datei anpassen, wenn Sie dies wünschen.
